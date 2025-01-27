@@ -9,3 +9,6 @@ This game is a simple math game built in Unity where your arithmetic skills are 
 # How To Run
 Just run the
 `Game Edukasi.exe`
+
+
+![Math Game](MathGame.gif)
