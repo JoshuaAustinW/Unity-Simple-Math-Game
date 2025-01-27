@@ -11,4 +11,4 @@ Just run the
 `Game Edukasi.exe`
 
 
-![Math Game](MathGame.gif)
+![Math Game](./assets/MathGame.gif)
